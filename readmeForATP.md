@@ -21,12 +21,12 @@
 - 平台内的公共变量可用于所有业务系统用例
 
 ##  **ATP工程模块说明**
-[工程说明](http://99.48.58.207/chengyun.liu/atpForOpen/wikis/projectSpecification)
+[工程说明](https://github.com/ooqitech/ATP/wiki/projectSpecification)
 - ATP-Web前端页面工程使用Vue.js和Element-ui，用到Element-ui是因为它基于Vue2.0，有丰富的成熟组件拿来即用，非常适合网站页面快速成型。
 - ATP-Core后端核心服务使用Flask作为服务端提供纯RESTful接口，选用Flask同样是因为Flask框架现在非常成熟，而且不重，也有丰富的第三方模块，生态良好。
 
 ##  **ATP功能模块说明**
-[模块说明](http://git.immd.cn/chengyun.liu/atpForOpen/wikis/function)
+[模块说明](https://github.com/ooqitech/ATP/wiki/function)
 - 环境配置：配置多套测试环境，分离测试用例和测试环境，可以保证一套用例多套环境使用。
 - 变量配置：公共变量和用例变量配置，公共变量可以使用在所有接口里，用例变量只能用在当前用例中。
 - 用例管理：设计用例，包括用例变量、前置用例、接口基本信息、入参、检查点。
@@ -35,9 +35,9 @@
 
 ##  **ATP主要页面介绍**
 
-[ATP主要页面介绍](http://git.immd.cn/chengyun.liu/atpForOpen/wikis/functionForATP)
+[ATP主要页面介绍](https://github.com/ooqitech/ATP/wiki/functionForATP)
 
 ##  **ATP快速部署文档**
 
-[快速部署文档](http://git.immd.cn/chengyun.liu/atpForOpen/wikis/deployment)
+[快速部署文档](https://github.com/ooqitech/ATP/wiki/deployment)
 
