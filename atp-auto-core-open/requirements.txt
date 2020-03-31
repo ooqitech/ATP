@@ -47,7 +47,7 @@ PyMySQL==0.8.1
 python-crontab==2.3.5
 python-dateutil==2.7.3
 python-editor==1.0.3
-python-engineio==3.8.2
+python-engineio==3.8.2.post1
 python-gitlab==1.2.0
 python-socketio==2.0.0
 pytz==2018.4
