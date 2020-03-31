@@ -1,4 +1,4 @@
-![ATP图标](http://git.immd.cn/chengyun.liu/atpForOpen/raw/master/images/atp2.png)
+![ATP图标](https://github.com/ooqitech/ATP/blob/master/images/atp2.png)
 
 
 
