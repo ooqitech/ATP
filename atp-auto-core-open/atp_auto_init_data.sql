@@ -1,0 +1,2 @@
+INSERT INTO `atp_auto`.`user` (`id`, `create_time`, `update_time`, `username`, `password`, `nickname`, `level`, `user_status`) VALUES ('1', '2018-10-17 11:19:08', NULL, 'admin', '5dad3b6b71bf0584f11758423c61b51f', 'Superman', '0', '0');
+INSERT INTO `atp_auto`.`user` (`id`, `create_time`, `update_time`, `username`, `password`, `nickname`, `level`, `user_status`) VALUES ('2', '2018-10-17 11:19:08', NULL, 'guest', 'ffc4aefc5b7bd14716e24134f3cf4fd1', '游客', '99', '1');

@@ -1,0 +1,9 @@
+[program:flask_atp_socket]
+command=/usr/local/miniconda3/bin/gunicorn --chdir /usr/local/src/atp/atp-auto-core/atp_socket socket_app:app -c /usr/local/src/atp/atp-auto-core/gunicorn/gunicorn_config_for_socket.py
+directory=/usr/local/src/atp/atp-auto-core/atp_socket/
+autostart=true
+autorestart=true
+user=root
+environment=MOCK_SERVICE_MODE="SIT"
+redirect_stderr=true
+stdout_logfile=/usr/local/src/logs/atp-auto-core/supervisor_socket.log

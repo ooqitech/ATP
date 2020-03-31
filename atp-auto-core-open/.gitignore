@@ -1,0 +1,22 @@
+# 忽略所有pyc的文件
+*.pyc
+
+# 忽略.idea 文件夹
+.idea/
+
+# 忽略所有的 log 文件
+*.log
+
+# 忽略所有的 JSON 文件， XLS 文件，png 文件
+*.json
+*.xls
+*.png
+*.xmind
+
+# 忽略虚拟环境文件夹
+venv/
+
+# 忽略migration文件夹
+migrations/
+
+
