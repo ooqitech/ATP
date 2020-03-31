@@ -12,6 +12,7 @@
 *.xls
 *.png
 *.xmind
+*.txt
 
 # 忽略虚拟环境文件夹
 venv/
