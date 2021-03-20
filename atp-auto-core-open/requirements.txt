@@ -28,7 +28,7 @@ humanize==0.5.1
 idna==2.7
 itsdangerous==0.24
 jdcal==1.4
-Jinja2==2.10.1
+Jinja2==2.11.3
 kombu==4.5.0
 locustio==0.9.0
 logzero==1.5.0
