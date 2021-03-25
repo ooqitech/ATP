@@ -51,7 +51,7 @@ python-engineio==3.9.0
 python-gitlab==1.2.0
 python-socketio==2.0.0
 pytz==2018.4
-PyYAML==4.2
+PyYAML==5.4
 pyzmq==17.1.2
 redis==3.2.1
 requests==2.20.0
