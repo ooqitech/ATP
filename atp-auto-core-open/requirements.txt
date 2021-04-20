@@ -41,7 +41,7 @@ pandas==0.24.2
 paramiko==2.4.2
 pika==1.1.0
 progress==1.4
-py==1.7.0
+py==1.10.0
 pycparser==2.19
 PyMySQL==0.8.1
 python-crontab==2.3.5
