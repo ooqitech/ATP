@@ -38,7 +38,7 @@ msgpack==0.6.0
 numpy==1.16.3
 openpyxl==2.5.12
 pandas==0.24.2
-paramiko==2.4.2
+paramiko==2.10.1
 pika==1.1.0
 progress==1.4
 py==1.7.0
