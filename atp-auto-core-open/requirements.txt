@@ -35,7 +35,7 @@ logzero==1.5.0
 Mako==1.0.7
 MarkupSafe==1.0
 msgpack==0.6.0
-numpy==1.16.3
+numpy==1.22.0
 openpyxl==2.5.12
 pandas==0.24.2
 paramiko==2.4.2
