@@ -20,7 +20,7 @@ Flask-RESTful==0.3.6
 Flask-Script==2.0.6
 Flask-SocketIO==3.0.2
 Flask-SQLAlchemy==2.3.2
-flower==0.9.3
+flower==1.2.0
 gevent==1.4.0
 greenlet==0.4.15
 har2case==0.1.8
